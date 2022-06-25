@@ -12,8 +12,8 @@ val: ../datasets/valid/images
 #test: test-dev2017.txt  # 20288 of 40670 images, submit to https://competitions.codalab.org/competitions/20794
 
 # Classes
-nc: 4 # number of classes
-names: ["Ölflecken","mosaikflecken", 'esca', 'gesund']  # class names
+nc: 3 # number of classes
+names: ["Ölflecken","Mosaikflecken", "Esca"]  # class names
 
 
 # Download script/URL (optional)
