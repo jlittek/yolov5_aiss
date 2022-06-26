@@ -4,7 +4,7 @@
 # Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
 train: ../datasets/train/images
 test: ../datasets/test/images
-val: ../datasets/valid/images
+val: ../datasets/val/images
 
 #path: ../datasets/coco  # dataset root dir
 #train: train2017.txt  # train images (relative to 'path') 118287 images
